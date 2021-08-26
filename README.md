@@ -1,4 +1,4 @@
-# redux-thunk-practice
+# redux-thunk-project
 
 Redux project using Thunk (action creators)
 
